@@ -20,7 +20,6 @@ self.textViewCadastro.userInteractionEnabled = false
 
 //MARK: Métodos de UITextViewDelegate
 
-
 func textViewDidBeginEditing(_ textView: UITextView) {
 
     print("textViewDidBeginEditing")
